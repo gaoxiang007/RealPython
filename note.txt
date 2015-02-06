@@ -1,1 +1,4 @@
 Jan-30-2015
+
+Feb-05-2015
+source myproject/bin/activate
